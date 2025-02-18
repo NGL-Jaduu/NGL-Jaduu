@@ -95,3 +95,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngl-jaduu&show_icons=true&locale=en&layout=compact" alt="ngl-jaduu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngl-jaduu&show_icons=true&locale=en" alt="ngl-jaduu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngl-jaduu&" alt="ngl-jaduu" /></p>
