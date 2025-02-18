@@ -1,4 +1,4 @@
-<h1 align="center">So I am Shaurya Fatania</h1>
+<h1 align="center">Cosole.log(Hii am Shaurya Fatania)</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngl-jaduu&label=Profile%20views&color=0e75b6&style=flat" alt="ngl-jaduu" /> </p>
